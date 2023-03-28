@@ -1,6 +1,8 @@
 # Leoflix
 Projeto clone da Netflix
 
+<img src="screenshot.png">
+
 Este é um <b>código HTML</b> para um site <i>clone da Netflix</i>. Inclui um cabeçalho com uma barra de navegação, ícone de pesquisa e notificação, uma seção principal com um filme em destaque e dois botões e uma seção com um <b>carousel</b> de filmes categorizados por gênero. 
 
 O código importa <i>dois arquivos CSS</i>, <b>"main.css"</b> e <b>"responsive.css"</b>, e dois arquivos CSS de owl carousel, <b>"owl.carousel.min.css"</b> e <b>"owl.theme.default.min.css"</b>. 
